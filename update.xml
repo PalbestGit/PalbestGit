@@ -2,9 +2,9 @@
 <updates>
     <App appID="MyApplication">
         <LatestVersion>2.0.0.0</LatestVersion>
-        <LatestVersionURL>R:\1 - Проекты\2-П-0820 Табак Праймери\АВТ\Стадия С\1 - В работе\2P0820-S-ENC-M11-AU-WORK-R19.rvt</LatestVersionURL>
+        <LatestVersionURL>https://github.com/PalbestGit/PalbestGit/blob/master/Folder/ShareModel%20v.1.2.2.exe?raw=true</LatestVersionURL>
         <FileName>MyApplication.exe</FileName>
-        <md5>0D3A8A2F640F6226360B67B37B4F7412</md5>
+        <md5>BE5C3CB05DFAFADAD4D14CAFDC6D376A</md5>
         <Description>
 Some new features:
     - new design
