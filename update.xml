@@ -2,7 +2,7 @@
 <updates>
     <App appID="MyApplication">
         <LatestVersion>2.0.0.0</LatestVersion>
-        <LatestVersionURL>https://github.com/PalbestGit/PalbestGit/blob/master/Folder/ShareModel%20v.1.2.2.exe?raw=true</LatestVersionURL>
+        <LatestVersionURL>https://raw.githubusercontent.com/PalbestGit/PalbestGit/master/Folder/ShareModel%20v.1.2.2.exe</LatestVersionURL>
         <FileName>MyApplication.exe</FileName>
         <md5>BE5C3CB05DFAFADAD4D14CAFDC6D376A</md5>
         <Description>
