@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <updates>
-    <App appID="MyApplication">
+    <App appID="EnecaMyApplication">
         <LatestVersion>2.0.0.0</LatestVersion>
         <LatestVersionURL>https://github.com/PalbestGit/PalbestGit/raw/master/Folder/ShareModel%20v.1.2.2.exe</LatestVersionURL>
-        <FileName>MyApplication.exe</FileName>
         <md5>BE5C3CB05DFAFADAD4D14CAFDC6D376A</md5>
         <Description>
 Some new features:
